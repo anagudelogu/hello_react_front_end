@@ -2,7 +2,7 @@
 
 # Hello React Rails - Front-end
 
-An app to illustrate how to use React and Rails from separate ends. This project serve as the Back-end API.
+An app to illustrate how to use React and Rails from separate ends. This project serve as the Front-end UI.
 
 [Link to Back-end](https://github.com/anagudelogu/hello_rails_back_end)
 
